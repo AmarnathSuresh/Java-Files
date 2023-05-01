@@ -1,0 +1,1 @@
+Create a functional interface in which the method will take 2 arguments then create the lambda expression that determines if one number is a factor of another.
